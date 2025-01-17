@@ -1,4 +1,4 @@
- <p align="center">Benvenido humano</p>
+ <p align="center">Bienvenido humano</p>
 
 <table align="center">
 <tr border="none">
